@@ -6,7 +6,7 @@ Bouncing Balls is a simple yet engaging game developed as part of the Basic Prog
 ## Getting Started
 
 ### Execution
-This game uses SDL2 library for implementing its graphical interface. You can either intsall SDL2 in your IDE of choice or use the provided MinGW compiler which comes with bundled SDL2. If you are using Clion, place the content of media file in your Cmake directory.
+This game uses SDL2 library for implementing its graphical interface. You can either intsall SDL2 in your IDE of choice or use the provided MinGW compiler which comes with bundled SDL2. All media is located in the Cmake directory.
 
 ### Interface
 Play game by choosing a game mode. Enter your username, then press Enter and then type your password.
