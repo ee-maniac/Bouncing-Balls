@@ -3,7 +3,7 @@
 SUT Department of Electrical Engineering BP project
 
 ## Overview
-Bouncing Balls is a simple yet engaging game developed as part of the Basic Programming (BP) course at Sharif University of Technology (SUT) in early 2024. The game is implemented in C++ and showcases fundamental programming concepts through an interactive graphical interface.
+Bouncing Balls is a simple yet engaging game developed as part of the basic programming (BP) course at Sharif University of Technology (SUT) in early 2024. The game is implemented in C++ and showcases fundamental programming concepts through an interactive graphical interface.
 
 ## Getting Started
 
